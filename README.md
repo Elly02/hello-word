@@ -1,2 +1,3 @@
 # hello-word
-Just another repository
+Hi ! It's Elly02. 
+I don't no what I'm doing to do but I do it.
